@@ -14,4 +14,4 @@ spec:
   spec:
    containers:
     - name: nodejs
-      image: sonal04/nodejsapp:latest
+      image: sonal04/ndjsapp
